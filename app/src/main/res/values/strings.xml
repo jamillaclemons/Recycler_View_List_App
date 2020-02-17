@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Recycler View List App</string>
+
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>squash</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$1.39</item>
+        <item>$0.88</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>fresh peaches from GA</item>
+        <item>fresh tomatoes from Ohio</item>
+        <item>fresh yello squash from CA</item>
+    </string-array>
+
+</resources>
